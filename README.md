@@ -7,7 +7,7 @@ Just download and try it. If you see any issues you can try the following. If yo
   * Configure qutty executable to be run in compatibility mode for Windows 7/Vista/Xp to see if it helps.
   * Look for any coredumps in %USERPROFILE%\qutty\dumps\ and email them if any.
 
-Report any issues or feature-requests in [issue-tracker](http://code.google.com/p/qutty/issues/list). We need help from volunteers to find and fix any blocking issues, so that a stable release can be made soon.
+Report any issues or feature-requests in [issue-tracker](https://github.com/mcarbonneaux/qutty/issues). We need help from volunteers to find and fix any blocking issues, so that a stable release can be made soon.
 
 **Links to some documentation:**
 
