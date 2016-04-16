@@ -30,7 +30,7 @@ Thanks to Suriyapriya Veluchamy for fixing them as well.
 
 ### 0.7-beta release (07/29/2013) ###
 Seventh beta release is made today with these features.
-  * Major feature supported is tabs in titlebar similar to Firefox/Chrome. See [TabsInTitlebar](TabsInTitlebar.md) for more information.
+  * Major feature supported is tabs in titlebar similar to Firefox/Chrome. See [TabsInTitlebar](https://github.com/mcarbonneaux/qutty/blob/wiki/TabsInTitlebar.md) for more information.
   * Suriya priya Veluchamy has implemented support for logging sessions similar to Putty.
   * Few other minor features & bugfixes were in as well.
 
@@ -42,12 +42,12 @@ Sixth beta release is made today. Thanks to Suriya priya Veluchamy for implement
   * Import/Export sessions is supported. This allows settings to be imported from XML file/PuTTY registry and to be exported as XML file.
   * Last but not least, QuTTY icon has been updated by Suriya priya (created from scratch using gimp 2.8.4 opensource tool, instead of freeware/shareware tools used for older icon. gimp project files are available as well, so that future modifications will be easy).
 
-Also see [HierarchicalSessions](HierarchicalSessions.md) for more documentation & tips.
+Also see [HierarchicalSessions](https://github.com/mcarbonneaux/qutty/blob/wiki/HierarchicalSessions.md) for more documentation & tips.
 
 ### 0.5-beta release (06/23/2013) ###
 Fifth beta release is made today.
   * Main feature added is configurable keyboard shortcuts.
-  * Navigation among Tabs/Split-panes is fully supported. See [KeyboardShortcuts](KeyboardShortcuts.md)
+  * Navigation among Tabs/Split-panes is fully supported. See [KeyboardShortcuts](https://github.com/mcarbonneaux/qutty/blob/wiki/KeyboardShortcuts.md)
 
 ### 0.4-beta release (06/10/2013) ###
 Fourth beta release is made today.
